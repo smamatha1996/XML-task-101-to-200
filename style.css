@@ -1,0 +1,18 @@
+.data{
+
+    margin-left: 25%;
+    margin-right: 25%;
+
+    font-size: 12px;
+    
+}
+h2{
+    font-size: 16px;    
+}
+table, th, td {
+  border: 0px 1px solid black;
+  border-collapse: collapse;
+  border-bottom-style:solid;
+    border-bottom-width: 1px;
+    font-size: 12px;
+}
